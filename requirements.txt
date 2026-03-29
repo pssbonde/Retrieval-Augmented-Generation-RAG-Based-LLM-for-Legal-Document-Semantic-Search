@@ -1,6 +1,9 @@
 streamlit
 pandas
 chromadb
-requests
-sentence-transformers
+openai
+langchain-openai
+sentence_transformers
 numpy
+# Required for sentence-transformers to run locally
+torch
